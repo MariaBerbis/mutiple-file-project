@@ -4,11 +4,15 @@ body {
   max-width: 700;
   text-align: center;
 }
-.btn-primary {
+.btn-warning {
   background-color: #643e4d;
   border: none;
   margin: 15px;
 }
 h4 {
   font-size: 18px;
+}
+.btn-warning:hover {
+  background-color: #643e4d;
+  opacity: 0.5;
 }
