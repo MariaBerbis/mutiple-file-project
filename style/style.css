@@ -6,6 +6,7 @@ body {
 }
 .btn-warning {
   background-color: #643e4d;
+  color: #fbff84;
   border: none;
   margin: 15px;
 }
